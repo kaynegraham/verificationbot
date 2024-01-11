@@ -1,0 +1,14 @@
+{
+    "botinformation": {
+        "token": ""
+    },
+    "guildinformation": {
+        "guildid": "",
+        "verifyChannel": "",
+        "logChannel": "",
+        "verifyroleID": ""
+    },
+    "steaminformation": {
+        "steamapikey": ""
+    }
+}
